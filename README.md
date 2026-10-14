@@ -29,7 +29,7 @@
 ### `Certifications`
 
 <p align="center">
-  <img src="assets/certifications.png" width="100%" alt="Certifications: OSCP, OSCP+, CEH, eJPT, eMAPT, eWPTX, eEDA, CRTM, CCNA" />
+  <img src="assets/certifications-v2.png" width="100%" alt="Certifications: OSCP, OSCP+, CEH, eJPT, eMAPT, eWPTX, eEDA, CRTM, CCNA" />
 </p>
 
 <p align="center">
