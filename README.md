@@ -31,16 +31,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OSCP-A80030?style=for-the-badge&logo=offensivesecurity&logoColor=white" alt="OSCP" />
   <img src="https://img.shields.io/badge/OSCP%2B-A80030?style=for-the-badge&logo=offensivesecurity&logoColor=white" alt="OSCP+" />
-  <img src="https://img.shields.io/badge/CRTM-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CRTM" />
   <img src="https://img.shields.io/badge/CEH-A6192E?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH" />
+  <a href="https://www.credential.net/729bdc21-795e-4435-883b-f49e73c33606"><img src="https://img.shields.io/badge/CRTM-verify-8B0000?style=for-the-badge&logoColor=white" alt="CRTM" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/eWPTX-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eWPTX" />
-  <img src="https://img.shields.io/badge/eMAPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eMAPT" />
-  <img src="https://img.shields.io/badge/eEDA-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eEDA" />
-  <img src="https://img.shields.io/badge/eJPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eJPT" />
+  <a href="https://certs.ine.com/profile/baraalmustafa346624/wallet"><img src="https://img.shields.io/badge/eWPTX-verify-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eWPTX" /></a>
+  <a href="https://certs.ine.com/profile/baraalmustafa346624/wallet"><img src="https://img.shields.io/badge/eMAPT-verify-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eMAPT" /></a>
+  <a href="https://certs.ine.com/profile/baraalmustafa346624/wallet"><img src="https://img.shields.io/badge/eEDA-verify-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eEDA" /></a>
+  <a href="https://certs.ine.com/profile/baraalmustafa346624/wallet"><img src="https://img.shields.io/badge/eJPT-verify-FF6B00?style=for-the-badge&logo=ine&logoColor=white" alt="eJPT" /></a>
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
 </p>
+
+<p align="center"><sub>INE credentials: <a href="https://certs.ine.com/profile/baraalmustafa346624/wallet">verified wallet</a> · CRTM: <a href="https://www.credential.net/729bdc21-795e-4435-883b-f49e73c33606">credential.net</a></sub></p>
 
 ---
 
