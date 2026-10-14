@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bara-almustafa"><img src="https://komarev.com/ghpvc/?username=bara-almustafa&label=Profile%20views&color=FF003C&style=flat" alt="profile views" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=620&lines=Ethical+Penetration+Tester;Breaking+Active+Directory+for+a+living;Find.+Exploit.+Report.+Remediate.;OSCP+%7C+OSCP%2B+%7C+CRTM+%7C+eWPTX+%7C+eMAPT" alt="Typing SVG" />
 </p>
 
