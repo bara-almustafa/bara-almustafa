@@ -76,10 +76,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bara-almustafa&layout=compact&hide_border=true&title_color=FF003C&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bara-almustafa&bg_color=0d1117&color=FF003C&line=FF003C&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 
 <!-- ===================== CONNECT ===================== -->
